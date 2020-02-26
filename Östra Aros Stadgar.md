@@ -2,34 +2,34 @@
 
 - [STADGAR för Östra Aros Cykelklubb](#stadgar-f-r--stra-aros-cykelklubb)
   * [Versionshantering](#versionshantering)
-  * [1 kap Allmänna bestämmelser](#1-kap-allmänna-bestämmelser)
-    + [§1 Ändamål](#-1-ändamål)
-    + [§2 Föreningens namn m.m.](#-2-föreningens-namn-mm)
-    + [§3 Sammansättning, tillhörighet m.m.](#-3-sammansättning--tillhörighet-mm)
-    + [§4 Beslutande organ](#-4-beslutande-organ)
-    + [§5 Verksamhets- och räkenskapsår](#-5-verksamhets--och-räkenskapsår)
-    + [§6 Verksamhets- och räkenskapsår](#-6-firmateckning)
-    + [§7 Stadgeändring](#-7-stadgeändring)
-    + [§8 Tvist/skiljeklausul](#-8-tvist-skiljeklausul)
-    + [§9 Upplösning av föreningen](#-9-upplösning-av-föreningen)
+  * [1 kap Allmänna bestämmelser](#1kap-allmänna-bestämmelser)
+    + [§1 Ändamål](#1-ändamål)
+    + [§2 Föreningens namn m.m.](#2-föreningens-namn-mm)
+    + [§3 Sammansättning, tillhörighet m.m.](#3-sammansättning--tillhörighet-mm)
+    + [§4 Beslutande organ](#4-beslutande-organ)
+    + [§5 Verksamhets- och räkenskapsår](#5-verksamhets--och-räkenskapsår)
+    + [§6 Verksamhets- och räkenskapsår](#6-firmateckning)
+    + [§7 Stadgeändring](#7-stadgeändring)
+    + [§8 Tvist/skiljeklausul](#8-tvist-skiljeklausul)
+    + [§9 Upplösning av föreningen](#9-upplösning-av-föreningen)
   * [2 kap Föreningens medlemmar](#2-kap-föreningens-medlemmar)
-    + [§1 Medlemskap](#-1-medlemskap)
-    + [§2 Medlems skyldigheter och rättigheter](#-2-medlems-skyldigheter-och-rättigheter)
-    + [§3 Medlems deltagande i tävlingsverksamhet](#-3-medlems-deltagande-i-tävlingsverksamhet)
-    + [§4 Utträde](#-4-utträde)
-    + [§5 Uteslutning m.m.](#-5-uteslutning-mm)
-    + [§6 Överklagande](#-6-överklagande)
-    + [§7 Medlemskapets upphörande](#-7-medlemskapets-upphörande)
+    + [§1 Medlemskap](#1-medlemskap)
+    + [§2 Medlems skyldigheter och rättigheter](#2-medlems-skyldigheter-och-rättigheter)
+    + [§3 Medlems deltagande i tävlingsverksamhet](#3-medlems-deltagande-i-tävlingsverksamhet)
+    + [§4 Utträde](#4-utträde)
+    + [§5 Uteslutning m.m.](#5-uteslutning-mm)
+    + [§6 Överklagande](#6-överklagande)
+    + [§7 Medlemskapets upphörande](#7-medlemskapets-upphörande)
   * [3 kap Årsmöte](#3-kap-årsmöte)
-    + [§1 Tidpunkt och kallelse](#-1-tidpunkt-och-kallelse)
-    + [§2 Förslag till ärenden att behandlas av årsmötet](#-2-förslag-till-ärenden-att-behandlas-av-årsmötet)
-    + [§3 Sammansättning och beslutförhet](#-3-sammansättning-och-beslutförhet)
-    + [§4 Rösträtt samt yttrande- och förslagsrätt på årsmötet](#-4-rösträtt-samt-yttrande--och-förslagsrätt-på-årsmötet)
-    + [§5 Ärenden vid årsmötet](#-5-ärenden-vid-årsmötet)
-    + [§6 Valbarhet](#-6-valbarhet)
-    + [§7 Extra årsmöte](#-7-extra-årsmöte)
-    + [§8 Beslut och omröstning](#-8-beslut-och-omröstning)
-    + [§9 Ikraftträdande](#-9-ikraftträdande)
+    + [§1 Tidpunkt och kallelse](#1-tidpunkt-och-kallelse)
+    + [§2 Förslag till ärenden att behandlas av årsmötet](#2-förslag-till-ärenden-att-behandlas-av-årsmötet)
+    + [§3 Sammansättning och beslutförhet](#3-sammansättning-och-beslutförhet)
+    + [§4 Rösträtt samt yttrande- och förslagsrätt på årsmötet](#4-rösträtt-samt-yttrande--och-förslagsrätt-på-årsmötet)
+    + [§5 Ärenden vid årsmötet](#5-ärenden-vid-årsmötet)
+    + [§6 Valbarhet](#6-valbarhet)
+    + [§7 Extra årsmöte](#7-extra-årsmöte)
+    + [§8 Beslut och omröstning](#8-beslut-och-omröstning)
+    + [§9 Ikraftträdande](#9-ikraftträdande)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
@@ -217,7 +217,7 @@ Vid extra årsmöte får endast den eller de frågor som angetts i förslaget ti
 ### §8 Beslut och omröstning 
 Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering).
 
-Med undantag för de i [§7 Stadgeändring](#-7-stadgeändring) första stycket och [§9 Upplösning av föreningen](#-9-upplösning-av-föreningen) nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
+Med undantag för de i [§7 Stadgeändring](#7-stadgeändring) första stycket och [§9 Upplösning av föreningen](#9-upplösning-av-föreningen) nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
 
 Val avgörs genom relativ majoritet. Med relativ majoritet menas att den (de) som erhållit högsta antalet röster är vald (valda) oberoende av hur dessa röster förhåller sig till antalet avgivna röster. 
 
