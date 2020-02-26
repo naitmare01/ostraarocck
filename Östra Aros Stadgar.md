@@ -12,6 +12,14 @@
     + [§7 Stadgeändring](#-7-stadge-ndring)
     + [§8 Tvist/skiljeklausul](#-8-tvist-skiljeklausul)
     + [§9 Upplösning av föreningen](#-9-uppl-sning-av-f-reningen)
+  * [2 kap Föreningens medlemmar](#2-kap-f-reningens-medlemmar)
+    + [§1 Medlemskap](#-1-medlemskap)
+    + [§2 Medlems skyldigheter och rättigheter](#-2-medlems-skyldigheter-och-r-ttigheter)
+    + [§3 Medlems deltagande i tävlingsverksamhet](#-3-medlems-deltagande-i-t-vlingsverksamhet)
+    + [§4 Utträde](#-4-uttr-de)
+    + [§5 Uteslutning m.m.](#-5-uteslutning-mm)
+    + [§6 Överklagande](#-6--verklagande)
+    + [§7 Medlemskapets upphörande](#-7-medlemskapets-upph-rande)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
@@ -76,3 +84,59 @@ För upplösning av föreningen krävs beslut av årsmöte med minst 2/3 av anta
 I beslut om upplösning av föreningen ska anges dels att föreningens tillgångar ska användas till ett bestämt idrottsfrämjande ändamål, dels var den upplösta föreningens handlingar m.m. ska arkiveras t.ex. i folkrörelsearkiv eller motsvarande.
 
 Beslutet, tillsammans med kopior av styrelsens och årsmötets protokoll i ärendet, samt revisionsberättelse jämte balans- och resultaträkningar, ska omedelbart skickas till vederbörande SF.
+
+## 2 kap Föreningens medlemmar
+
+### §1 Medlemskap
+Alla personer som vill stödja föreningens ändamål har rätt att beviljas medlemskap. Ansökan om medlemskap får avslås endast om det kan antas att sökanden kommer att motarbeta föreningens ändamål eller på annat sätt skada föreningens intressen. Medlemskap beviljas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Medlemskapet gäller tills vidare.
+
+Beslut att avslå medlemsansökan ska fattas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Innan sådant beslut fattas ska personen i fråga ges tillfälle att inom viss tid, minst 14 dagar, yttra sig över de omständigheter som är anledningen till att medlemskap ifrågasätts. 
+
+I beslutet att avslå medlemsansökan ska skälen redovisas samt anges vad den medlemssökande ska iaktta för att överklaga beslutet. Beslutet ska inom tre dagar från dagen för beslutet skriftligen skickas till den som fått avslag på medlemsansökan.
+
+Beslut att avslå medlemsansökan får överklagas av den berörde inom tre veckor till vederbörande SF.
+
+### §2 Medlems skyldigheter och rättigheter
+Medlem
+* ska följa föreningens stadgar och beslut som fattats av föreningsorgan samt följa i 1 kap 3 § nämnda organisationers stadgar, tävlingsregler och beslut,
+* ska betala de avgifter som beslutats av föreningen,
+* har rätt att delta i sammankomster som anordnas för medlemmarna,
+* har rätt till information om föreningens angelägenheter i den utsträckning som följer av 6 kap 2 §,
+* har inte rätt att ta del av föreningens behållning eller egendom vid upplösning av föreningen.
+
+### §3 Medlems deltagande i tävlingsverksamhet
+Medlem har rätt att delta i föreningens idrottsliga verksamhet under de former som är vedertagna inom idrotten och på samma villkor som gäller för övriga medlemmar. Föreningen har därvid rätt att uppställa särskilda villkor för utövande av vissa uppdrag.
+
+Vid deltagande i tävling eller uppvisning representerar medlem sin förening. 
+
+Föreningen bestämmer förutsättningarna för medlems deltagande i tävling eller uppvisning. För deltagande i tävling eller uppvisning utanför Sverige krävs vederbörande SF:s godkännande. 
+
+Styrelens eller av styrelen utsedd <i>Race Manager</i>, beslutar om vilka medlemar som får företräda föreningen vid av SF anslutna tävlingar.
+
+Medlem som vill delta i tävlingsverksamhet för föreningen skall inkomma med ansökan till styrelsen senast 31 januari för kommande tävlingsår.
+
+Är arrangören av tävlingen eller uppvisningen inte ansluten till det SF som administrerar ifrågavarande idrottsgren, får medlemmen delta endast om detta SF godkänt tävlingen eller uppvisningen.
+
+### §4 Utträde
+Medlem, som önskar utträda ur förening, ska skriftligen anmäla detta. Har medlem vid sådant utträde inte betalat föreskrivna avgifter till föreningen, bestämmer föreningsstyrelsen om de ska betalas eller inte.
+
+Om medlem inte betalat medlemsavgift under två på varandra följande år, får föreningen besluta om medlemskapets upphörande.
+
+Om inte annat beslutas upphör medlemskapet enligt första eller andra stycket när medlemmen avförs från medlemsförteckningen. Personen ska underrättas om att medlemskapet har upphört.
+
+### §5 Uteslutning m.m.
+Medlem får, utan iakttagande av 4 § andra stycket, uteslutas om medlemmen, trots påminnelser, har försummat att betala av föreningen beslutade avgifter. Medlem får också uteslutas om medlemmen motarbetat föreningens verksamhet eller ändamål, brutit mot föreningens stadgar eller på annat sätt skadat föreningens intressen.
+
+Uteslutning gäller tills vidare. Beslut om uteslutning får dock begränsas till att omfatta viss tid. Sådan tidsbegränsad uteslutning får som mest omfatta sex månader från beslutsdagen.
+
+Om tillräckliga skäl för uteslutning inte föreligger får föreningen i stället meddela medlemmen varning.
+
+Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss av föreningsstyrelsen angiven tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts.
+
+I beslut om uteslutning eller varning ska skälen redovisas samt anges vad medlemmen ska iaktta för överklagande av beslutet. Beslutet ska inom tre dagar från dagen för beslutet skickas till medlemmen.
+
+### §6 Överklagande
+Beslut om att vägra medlemskap, medlemskapets upphörande eller varning får överklagas till vederbörande SF enligt reglerna i 15 kap. RF:s stadgar.
+
+### §7 Medlemskapets upphörande
+Beslut om upphörande av enskilds medlemskap gäller inte förrän klagotiden utgått, eller då beslut överklagats, ärendet blivit slutligt avgjort.
