@@ -180,7 +180,7 @@ Vid årsmötet ska följande behandlas och protokollföras:
 8.	Fråga om ansvarsfrihet för styrelsen för den tid revisionen avser.
 9.	Fastställande av medlemsavgifter.
 10.	Fastställande av verksamhetsplan samt behandling av ekonomisk plan för kommande verksamhets-/räkenskapsår.
-11. 	Behandling av styrelsens förslag och i rätt tid inkomna motioner.
+11. Behandling av styrelsens förslag och i rätt tid inkomna motioner.
 12.	Val av
 a)  föreningens ordförande för en tid av ett år;
 b)  halva antalet övriga ledamöter i styrelsen för en tid av två år;
