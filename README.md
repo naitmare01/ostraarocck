@@ -1,2 +1,2 @@
-# ostraarocck
-Stadge-revision
+# Östra Aros CK
+Revision av stadgarna
