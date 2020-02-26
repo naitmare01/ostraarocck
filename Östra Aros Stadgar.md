@@ -140,3 +140,81 @@ Beslut om att vägra medlemskap, medlemskapets upphörande eller varning får ö
 
 ### §7 Medlemskapets upphörande
 Beslut om upphörande av enskilds medlemskap gäller inte förrän klagotiden utgått, eller då beslut överklagats, ärendet blivit slutligt avgjort.
+
+## 3 kap Årsmöte
+
+### §1 Tidpunkt och kallelse
+Årsmötet, som är föreningens högsta beslutande organ, hålls före utgången av mars månad på tid och plats som styrelsen bestämmer.
+
+Kallelse till årsmötet och förslag till föredragningslista ska av styrelsen senast tre veckor före mötet tillhandahållas medlemmarna på sätt styrelsen bestämt. Vidare ska kallelse och förslag till föredragningslista publiceras på föreningens hemsida och anslås i klubblokal eller på annan lämplig plats. Har förslag väckts om stadgeändring, nedläggning eller sammanslagning av föreningen med annan förening eller annan fråga av väsentlig betydelse för föreningen eller dess medlemmar ska det anges i kallelsen.
+
+Verksamhetsberättelse, årsredovisning/årsbokslut, revisorernas berättelser, verksamhetsplan med budget samt styrelsens förslag och inkomna motioner med styrelsens yttrande ska finnas tillgängliga för medlemmarna senast en vecka före årsmötet. I kallelsen ska anges var dessa handlingar finns tillgängliga.
+
+### §2 Förslag till ärenden att behandlas av årsmötet
+Såväl medlem som styrelsen får avge förslag att behandlas av årsmötet.
+
+Förslag från medlem (motion) ska vara styrelsen tillhanda senast fyra veckor före årsmötet. Styrelsen ska till årsmötet avge skriftligt yttrande över motionerna.
+
+### §3 Sammansättning och beslutförhet
+Årsmöte består av närvarande röstberättigade medlemmar. Vid förfall får medlemmen företrädas av ombud. Ombud får enbart företräda en medlem. Vårdnadshavare har dock rätt att företräda sina omyndiga barn. 
+
+Mötet är beslutsmässigt med de röstberättigade medlemmar och ombud som är närvarande på mötet.
+
+### §4 Rösträtt samt yttrande- och förslagsrätt på årsmötet
+För att vara röstberättigad på årsmöte krävs:
+* att medlemmen under mötesåret fyller lägst 12 år; 
+* att medlemskap har beviljats minst två månader före årsmötet; och
+* att medlemsavgifter har betalats senast två månader före årsmötet. 
+
+Medlem som inte har rösträtt har yttrande- och förslagsrätt på mötet.
+
+### §5 Ärenden vid årsmötet
+Vid årsmötet ska följande behandlas och protokollföras:
+1.	Fastställande av röstlängd för mötet.
+2.	Val av ordförande och sekreterare för mötet.
+3.	Val av protokolljusterare och rösträknare.
+4.	Fråga om mötet har utlysts på rätt sätt.
+5.	Fastställande av föredragningslista.
+6.	Styrelsens verksamhetsberättelse med årsredovisning/årsbokslut för det senaste verksamhets-/räkenskapsåret.
+7.	Revisorernas berättelse över styrelsens förvaltning under det senaste verksamhets-/räkenskapsåret.
+8.	Fråga om ansvarsfrihet för styrelsen för den tid revisionen avser.
+9.	Fastställande av medlemsavgifter.
+10.	Fastställande av verksamhetsplan samt behandling av ekonomisk plan för kommande verksamhets-/räkenskapsår.
+11. 	Behandling av styrelsens förslag och i rätt tid inkomna motioner.
+12.	Val av
+a)  föreningens ordförande för en tid av ett år;
+b)  halva antalet övriga ledamöter i styrelsen för en tid av två år;
+c)  en suppleant (ersättare) i styrelsen för en tid av ett år;
+d)  en  revisorer jämte suppleanter (ersättare) för en tid av ett år. I detta val får inte styrelsens ledamöter delta;
+e)  två  ledamöter i valberedningen för en tid av ett år, av vilka en ska utses till ordförande; samt
+f)  ombud till möten där föreningen har rätt att vara representerad genom ombud.
+13.	Eventuella övriga frågor som anmälts under punkt 5. Beslut i fråga av större ekonomisk eller annan avgörande betydelse för föreningen eller medlemmarna får inte fattas om den inte varit med i kallelsen till mötet.
+
+### §6 Valbarhet
+Valbar till styrelsen och valberedningen är röstberättigad medlem av föreningen. Arbetstagare inom föreningen får dock inte väljas till ledamot eller suppleant i styrelsen, valberedningen eller till revisor eller revisorssuppleant i föreningen.
+
+### §7 Extra årsmöte
+Styrelsen kan kalla medlemmarna till extra årsmöte.
+
+Styrelsen är skyldig att kalla till extra årsmöte när en revisor eller minst en tiondel av föreningens röstberättigade medlemmar begär det. Sådan framställning ska avfattas skriftligen och innehålla skälen för begäran.
+
+När styrelsen mottagit en begäran om extra årsmöte ska den inom 14 dagar utlysa sådant möte att hållas inom två månader från erhållen begäran. Kallelse med förslag till föredragningslista för extra årsmöte ska senast sju dagar före mötet tillställas medlemmarna på sätt styrelsen bestämt. Vidare ska kallelse och förslag till föredragningslista publiceras på föreningens hemsida och anslås i klubblokal eller på annan lämplig plats.
+
+Underlåter styrelsen att utlysa eller kalla till extra årsmöte får de som gjort framställningen vidta åtgärder enligt föregående stycke.
+
+Vid extra årsmöte får endast den eller de frågor som angetts i förslaget till föredragningslista behandlas.
+
+### §8 Beslut och omröstning 
+Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering).
+
+Med undantag för de i 1 kap. 7 § första stycket och 1 kap. 9 § nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
+
+Val avgörs genom relativ majoritet. Med relativ majoritet menas att den (de) som erhållit högsta antalet röster är vald (valda) oberoende av hur dessa röster förhåller sig till antalet avgivna röster. 
+
+För beslut i andra frågor än val krävs absolut majoritet, vilket innebär mer än hälften av antalet avgivna röster.
+Omröstning sker öppet. Om röstberättigad medlem begär det ska dock val ske slutet.
+
+Vid omröstning som inte avser val gäller vid lika röstetal det förslag som biträds av ordföranden vid mötet, om ordföranden är röstberättigad. Är mötesordföranden inte röstberättigad avgör lotten. Vid val ska i händelse av lika röstetal lotten avgöra.
+
+### §9 Ikraftträdande
+Beslut fattade av årsmöte gäller från årsmötets avslutande om inte annat sägs.
