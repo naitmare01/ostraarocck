@@ -20,6 +20,16 @@
     + [§5 Uteslutning m.m.](#-5-uteslutning-mm)
     + [§6 Överklagande](#-6--verklagande)
     + [§7 Medlemskapets upphörande](#-7-medlemskapets-upph-rande)
+  * [3 kap Årsmöte](#3-kap--rsm-te)
+    + [§1 Tidpunkt och kallelse](#-1-tidpunkt-och-kallelse)
+    + [§2 Förslag till ärenden att behandlas av årsmötet](#-2-f-rslag-till--renden-att-behandlas-av--rsm-tet)
+    + [§3 Sammansättning och beslutförhet](#-3-sammans-ttning-och-beslutf-rhet)
+    + [§4 Rösträtt samt yttrande- och förslagsrätt på årsmötet](#-4-r-str-tt-samt-yttrande--och-f-rslagsr-tt-p---rsm-tet)
+    + [§5 Ärenden vid årsmötet](#-5--renden-vid--rsm-tet)
+    + [§6 Valbarhet](#-6-valbarhet)
+    + [§7 Extra årsmöte](#-7-extra--rsm-te)
+    + [§8 Beslut och omröstning](#-8-beslut-och-omr-stning)
+    + [§9 Ikraftträdande](#-9-ikrafttr-dande)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
