@@ -217,7 +217,7 @@ Vid extra årsmöte får endast den eller de frågor som angetts i förslaget ti
 ### §8 Beslut och omröstning 
 Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering).
 
-Med undantag för de i 1 kap. 7 § första stycket och 1 kap. 9 § nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
+Med undantag för de i [§7 Stadgeändring](#-7-stadge-ndring) första stycket och [§9 Upplösning av föreningen](#-9-uppl-sning-av-f-reningen) nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
 
 Val avgörs genom relativ majoritet. Med relativ majoritet menas att den (de) som erhållit högsta antalet röster är vald (valda) oberoende av hur dessa röster förhåller sig till antalet avgivna röster. 
 
