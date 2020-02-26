@@ -31,7 +31,9 @@
     + [§8 Beslut och omröstning](#8-beslut-och-omröstning)
     + [§9 Ikraftträdande](#9-ikraftträdande)
   * [4 kap Valberedning](#4-kap-valberedning)
-  * [5 kap Revision](#4-kap-revision)
+  * [5 kap Revision](#5-kap-revision)
+  * [6 kap Styrelsen](#6-kap-styrelsen)
+  * [7 kap Övriga föreningsorgan](#7-kap-övriga-föreningsorgan)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
@@ -250,3 +252,75 @@ Innan kandidatnominering påbörjas på årsmötet ska valberedningen meddela si
 De som ingår i valberedningen får inte obehörigen röja vad de i denna egenskap fått kännedom om.
 
 ## 5 kap Revision
+
+### §1 Revisorer och revision
+Föreningens räkenskaper och förvaltning ska årligen granskas av de av årsmötet utsedda revisorerna.
+
+Revisorerna har rätt att fortlöpande ta del av föreningens räkenskaper, årsmötes- och styrelseprotokoll och övriga handlingar.
+
+Föreningens räkenskaper för det senaste verksamhets- och räkenskapsåret ska vara revisorerna tillhanda senast en månad före årsmötet.
+
+Revisorerna ska granska styrelsens förvaltning och räkenskaper för det senaste verksamhets- och räkenskapsåret samt till styrelsen överlämna revisionsberättelse senast 14 dagar före årsmötet.
+
+## 6 kap Styrelsen
+
+### §1 Sammansättning
+Styrelsen ska bestå av ordförande samt  tre övriga ledamöter. Styrelsen ska bestå av kvinnor och män.
+
+Styrelsen ska inom sig utse vice ordförande och de övriga befattningshavare som behövs.
+
+Vid förhinder för ledamot ersätts ledamoten av suppleant. Om ledamot avgår i förtid ersätter suppleanten ledamoten för tiden t.o.m. nästföljande årsmöte.
+
+Styrelsen får utse adjungerad ledamot. Sådan ledamot har yttrande- och förslagsrätt men inte rösträtt. Adjungerad ledamot får utses till befattning inom styrelsen. 
+
+### §2 Styrelsens åligganden
+När årsmöte inte är samlat är styrelsen föreningens beslutande organ och ansvarar för föreningens angelägenheter.
+
+Styrelsen ska – inom ramen för RF:s, vederbörande SF:s och förevarande stadgar – svara för föreningens verksamhet samt tillvarata medlemmarnas intressen.
+
+Det åligger styrelsen särskilt att 
+* se till att föreningen följer gällande författningar och andra bindande regler,
+* verkställa av årsmötet fattade beslut,
+* planera, leda och fördela arbetet inom föreningen och för detta utarbeta arbetsordning samt instruktioner för underliggande föreningsorgan,
+* ansvara för och förvalta föreningens medel,
+* fortlöpande informera medlemmarna om föreningens angelägenheter i den utsträckning detta inte kan skada föreningens intressen,
+* tillställa revisorerna räkenskaper m.m. enligt 5 kap. 1 §, och
+* förbereda årsmöte.
+
+Ordföranden ska leda styrelsens arbete och bevaka att styrelsen fullgör sina uppgifter enligt föreningens stadgar och övriga för föreningen bindande regler och beslut. Har ordföranden förhinder ska vice ordföranden träda in i ordförandens ställe. 
+
+Styrelsen ska besluta om fördelning av arbetsuppgifterna i övrigt genom en särskild upprättad arbetsordning.
+
+### §3 Kallelse, beslutförhet och omröstning
+Styrelsen ska sammanträda på kallelse av ordföranden. Ordföranden är skyldig att kalla till sammanträde då minst två ledamöter har begärt det. Underlåter ordföranden att utfärda kallelse får de som gjort framställningen kalla till sammanträde.
+
+Styrelsen är beslutsmässig när samtliga ledamöter kallats och då minst halva antalet ledamöter är närvarande. För alla beslut krävs att minst hälften av styrelsens samtliga ledamöter är ense om beslutet. Vid lika röstetal har ordföranden utslagsröst. Röstning får inte ske genom ombud. 
+
+Ordföranden får besluta att ärende ska avgöras genom skriftlig omröstning (beslut per capsulam) eller vid telefonsammanträde eller med hjälp av annan teknisk utrustning. 
+
+Vid sammanträde eller beslutsfattande enligt föregående stycke ska protokoll upprättas. Protokoll ska undertecknas av mötesordföranden och utsedd protokollsekreterare. Avvikande mening ska antecknas i protokollet.
+
+### §4 Överlåtelse av beslutanderätten
+Styrelsen får överlåta sin beslutanderätt i enskilda ärenden eller i vissa grupper av ärenden till kommitté eller annat organ eller till enskild medlem, anställd eller annan utsedd person.
+
+Den som fattat beslut med stöd av bemyndigande enligt föregående stycke ska fortlöpande underrätta styrelsen härom.
+
+Styrelsen överlåter vid behov, av styrelsen utsedd Race Manager, rätten att besluta om medlems deltagande i tävlingsverksamhet i enlighet med 2 kap 3 §.
+
+## 7 kap Övriga föreningsorgan
+
+### §1 Kommittéer, arbetsgrupper och andra underliggande föreningsorgan
+Föreningen ska för sin idrottsliga verksamhet ha följande sektioner/kommittéer:
+* Landsvägscykling
+* Mountainbike.
+
+Styrelsen får härutöver vid behov inrätta tillfälliga kommittéer och arbets- och projektgrupper. 
+
+### §2 Instruktioner
+Föreningens styrelse ska, i särskild instruktion eller på annat lämpligt sätt, fastställa de befogenheter och skyldigheter som de underliggande organen har. 
+
+### §3 Budget och verksamhetsplan
+Sektion/kommitté för respektive idrottsverksamhet samt övriga fasta kommittéer ska upprätta förslag till budget och verksamhetsplan för sektionen/kommittén att gälla under nästföljande verksamhetsår. Budget och planen inges till styrelsen för godkännande på tid som den bestämmer. Styrelsen gör de ändringar i budgeten och planen som bedöms vara nödvändiga med hänsyn till föreningens skyldigheter i olika hänseenden, föreningens ekonomiska ställning eller den väntade utvecklingen av den idrottsliga verksamheten.
+
+### §4 Återrapportering
+Den som fått bemyndigande av styrelsen enligt 6 kap. 4 § ska fortlöpande underrätta styrelsen genom återrapportering i den ordning som styrelsen fastställt i instruktion.
