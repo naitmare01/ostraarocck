@@ -7,8 +7,8 @@
     + [§2 Föreningens namn m.m.](#-2-f-reningens-namn-mm)
     + [§3 Sammansättning, tillhörighet m.m.](#-3-sammans-ttning--tillh-righet-mm)
     + [§4 Beslutande organ](#-4-beslutande-organ)
-    + [§5](#-5)
-    + [§6](#-6)
+    + [§5 Verksamhets- och räkenskapsår](#-5-verksamhets--och-r-kenskaps-r)
+    + [§6 Verksamhets- och räkenskapsår](#-6-verksamhets--och-r-kenskaps-r)
     + [§7 Stadgeändring](#-7-stadge-ndring)
     + [§8 Tvist/skiljeklausul](#-8-tvist-skiljeklausul)
     + [§9 Upplösning av föreningen](#-9-uppl-sning-av-f-reningen)
@@ -52,10 +52,10 @@ På begäran av RF eller vederbörande SF-, SDF- eller DF-styrelse är förening
 ### §4 Beslutande organ
 Föreningens beslutande organ är årsmötet, extra årsmöte och styrelsen.
 
-### §5
+### §5 Verksamhets- och räkenskapsår
 Föreningens verksamhetsår och räkenskapsår omfattar tiden fr.o.m den 1 januari t.o.m den 31 december.
 
-### §6
+### §6 Verksamhets- och räkenskapsår
 Föreningens firma tecknas av styrelsen gemensamt.
 
 Styrelsen har rätt att delegera firmateckningsrätten till två styrelseledamöter gemensamt eller till en eller flera särskilt utsedda personer.
