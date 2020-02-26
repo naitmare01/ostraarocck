@@ -30,6 +30,8 @@
     + [§7 Extra årsmöte](#7-extra-årsmöte)
     + [§8 Beslut och omröstning](#8-beslut-och-omröstning)
     + [§9 Ikraftträdande](#9-ikraftträdande)
+  * [4 kap Valberedning](#4-kap-valberedning)
+  * [5 kap Revision](#4-kap-revision)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
@@ -228,3 +230,23 @@ Vid omröstning som inte avser val gäller vid lika röstetal det förslag som b
 
 ### §9 Ikraftträdande
 Beslut fattade av årsmöte gäller från årsmötets avslutande om inte annat sägs.
+
+## 4 kap Valberedning
+
+### §1 Sammansättning
+Valberedningen ska bestå av ordförande och två övriga ledamöter valda av årsmötet. Valberedningen ska bestå av kvinnor och män, och olika åldersgrupper ska finnas representerade. 
+
+Valberedningen ska bland sina ledamöter utse en vice ordförande. Valberedningen ska sammanträda när ordföranden eller minst halva antalet ledamöter så bestämmer.
+
+### §2 Åligganden
+Valberedningen ska bereda valen inför kommande årsmöte, och ska i detta arbete fortlöpande under verksamhetsåret följa styrelsens och revisorernas arbete.
+
+Valberedningen ska senast två månader före årsmötet tillfråga dem vilkas mandattid utgår vid mötets slut, om de vill kandidera för nästa mandattid. Därefter ska valberedningen informera medlemmarna om eventuella avsägelser. Valberedningen ska upplysa medlemmarna om att de har rätt att inkomma med förslag på kandidater. 
+
+Senast tre veckor före årsmötet ska valberedningen meddela röstberättigade medlemmar sitt förslag, samt meddela namnen på de personer som i övrigt har föreslagits inför valberedningen.
+
+Innan kandidatnominering påbörjas på årsmötet ska valberedningen meddela sitt förslag beträffande det val nomineringen avser.
+
+De som ingår i valberedningen får inte obehörigen röja vad de i denna egenskap fått kännedom om.
+
+## 5 kap Revision
