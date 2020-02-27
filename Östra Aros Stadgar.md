@@ -31,9 +31,20 @@
     + [§8 Beslut och omröstning](#8-beslut-och-omröstning)
     + [§9 Ikraftträdande](#9-ikraftträdande)
   * [4 kap Valberedning](#4-kap-valberedning)
+    + [§1 Sammansättning](#1-sammansättning)
+    + [§2 Åligganden](#2-åligganden)
   * [5 kap Revision](#5-kap-revision)
+    + [§1 Revisorer och revision](#1-revisorer-och-revision)
   * [6 kap Styrelsen](#6-kap-styrelsen)
+    + [§1 Sammansättning](#1-sammasättning)
+    + [§2 Styrelsens åligganden](#2-styrelsens-åligganden)
+    + [§3 Kallelse, beslutförhet och omröstning](#3-kallelse-beslutförhet-och-omröstning)
+    + [§4 Överlåtelse av beslutanderätten](#4-överlåtelse-av-beslutanderätten)
   * [7 kap Övriga föreningsorgan](#7-kap-övriga-föreningsorgan)
+    + [§1 Kommittéer, arbetsgrupper och andra underliggande föreningsorgan](#1-kommittéer-arbetsgrupper-och-andra-underliggande-föreningsorgan)
+    + [§2 Instruktioner](#2-instruktioner)
+    + [§3 Budget och verksamhetsplan](#3-budget-och-verksamhetsplan)
+    + [§4 Återrapportering](#4-återrapportering)
 
 ## Versionshantering
 | Version  | Datum | Typ Av ändring |
@@ -44,7 +55,7 @@
 Östra Aros Cykelklubb stadgar utgår från RF:s stadgemall för idrottföreningar v2.2, fastställd av Riksidrottsstyrelsen den 11 oktober 2013.
 
 ### §1 Ändamål
-Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” (1 kap RF:s stadgar, bilaga), med särskild inriktning att: 
+Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” [1 kap RF:s stadgar, bilaga](https://www.rf.se/globalassets/riksidrottsforbundet/nya-dokument/nya-dokumentbanken/stadgar-och-regelverk/rfs-stadgar-2020-01-01.pdf), med särskild inriktning att: 
 * Föreningen skall bedriva cykelsport av tävlings- och motion-karaktär.
 * Föreningens huvudsakliga ändamål är att delta i senior- och veterancupen för landsvägscykling. 
 
