@@ -56,13 +56,16 @@
 
 ### §1 Ändamål
 Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” [1 kap RF:s stadgar, bilaga](https://www.rf.se/globalassets/riksidrottsforbundet/nya-dokument/nya-dokumentbanken/stadgar-och-regelverk/rfs-stadgar-2020-01-01.pdf), med särskild inriktning att: 
-* Föreningen skall bedriva cykelsport av tävlings- och motion-karaktär.
-* Föreningens huvudsakliga ändamål är att delta i nationella cykeltävlningar sanktionerade av SCF.
+* Föreningen skall bedriva cykelsport av tävlings- och motionskaraktär.
+* Föreningens huvudsakliga ändamål är att delta i nationella cykeltävlningar sanktionerade av SCF. Eller texten "Föreningens huvudsakliga ändamål är att med glädje och gemenskap bedriva fysisk aktivitet där träning med möjlighet till utveckling och tävling bidrar till välmående för föreningens medlemmar."?
 
 Föreningen ska bedriva följande idrotter:
 * Landsvägscykel (Lvg), cykelcross (Cx) och mountainbike (Mtb).
 
-* Föreningen ska motverka all form av diskriminering samt aktivt verka för en dopingfri idrott.
+Värdegrund
+Föreningen är inkluderande där alla, oavsett nationalitet, etniskt ursprung, religion, ålder, kön eller sexuell läggning samt fysiska och psykiska förutsättningar, får vara med.
+Föreningen är demokratisk och alla medlemmars röst har lika värde.
+Föreningen tar starkt avstånd från doping matchfixing, osund ekonomi och annat fusk samt mot mobbing, trakasserier och våld i alla sammanhang.
 
 ### §2 Föreningens namn m.m.
 Föreningens fullständiga namn är Östra Aros Cykelklubb 
