@@ -67,7 +67,7 @@ Värdegrund:
 Med glädje och gemenskap bedriver föreningen fysisk aktivitet där träning med möjlighet till utveckling och tävling bidrar till välmående för föreningens medlemmar.
 Föreningen är inkluderande där alla, oavsett nationalitet, etniskt ursprung, religion, ålder, kön eller sexuell läggning samt fysiska och psykiska förutsättningar, är välkomna och får vara med.
 Föreningen är demokratisk och alla medlemmars röst har lika värde.
-Föreningen tar starkt avstånd från doping matchfixing, osund ekonomi och annat fusk samt mot mobbing, trakasserier och våld i alla sammanhang.
+Föreningen tar starkt avstånd från doping, matchfixing, osund ekonomi och annat fusk samt mot mobbing, trakasserier och våld i alla sammanhang.
 
 ### §2 Föreningens namn m.m.
 Föreningens fullständiga namn är Östra Aros Cykelklubb 
