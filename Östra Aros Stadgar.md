@@ -62,7 +62,8 @@ Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med �
 Föreningen ska bedriva följande idrotter:
 * Landsvägscykel (Lvg), cykelcross (Cx) och mountainbike (Mtb).
 
-Värdegrund
+Värdegrund:
+
 Med glädje och gemenskap bedriver föreningen fysisk aktivitet där träning med möjlighet till utveckling och tävling bidrar till välmående för föreningens medlemmar.
 Föreningen är inkluderande där alla, oavsett nationalitet, etniskt ursprung, religion, ålder, kön eller sexuell läggning samt fysiska och psykiska förutsättningar, är välkomna och får vara med.
 Föreningen är demokratisk och alla medlemmars röst har lika värde.
