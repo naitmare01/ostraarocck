@@ -52,21 +52,26 @@
 | 1.0 | 2020-02-26 | Kopierar in orginalet, inga ändringar mot den som ligger. |
 
 ## 1 kap Allmänna bestämmelser
-Östra Aros Cykelklubb stadgar utgår från RF:s stadgemall för idrottföreningar v2.2, fastställd av Riksidrottsstyrelsen den 11 oktober 2013.
+Östra Aros Cykelklubb stadgar utgår från RF:s stadgemall för idrottföreningar, fastställd av Riksidrottsstyrelsen den 11 oktober 2013 uppdaterad efter RF-stämman 2015 och reviderad av Riksidrottsstyrelsen den 22 augusti 2018.
 
 ### §1 Ändamål
 Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” [1 kap RF:s stadgar, bilaga](https://www.rf.se/globalassets/riksidrottsforbundet/nya-dokument/nya-dokumentbanken/stadgar-och-regelverk/rfs-stadgar-2020-01-01.pdf), med särskild inriktning att: 
-* Föreningen skall bedriva cykelsport av tävlings- och motion-karaktär.
-* Föreningens huvudsakliga ändamål är att delta i senior- och veterancupen för landsvägscykling. 
+* Föreningen skall bedriva cykelsport av tävlings- och motionskaraktär.
+* Föreningens huvudsakliga ändamål är att delta i nationella cykeltävlningar sanktionerade av SCF. 
 
 Föreningen ska bedriva följande idrotter:
-* Landsvägscykel (Lvg) och mountainbike (Mtb).
+* Landsvägscykel (Lvg), cykelcross (Cx) och mountainbike (Mtb).
 
-* Föreningen ska motverka all form av diskriminering samt aktivt verka för en dopingfri idrott.
+Värdegrund:
+
+Med glädje och gemenskap bedriver föreningen fysisk aktivitet där träning med möjlighet till utveckling och tävling bidrar till välmående för föreningens medlemmar.
+Föreningen är inkluderande där alla, oavsett nationalitet, etniskt ursprung, religion, ålder, kön eller sexuell läggning samt fysiska och psykiska förutsättningar, är välkomna och får vara med.
+Föreningen är demokratisk och alla medlemmars röst har lika värde.
+Föreningen tar starkt avstånd från doping, matchfixing, osund ekonomi och annat fusk samt mot mobbing, trakasserier och våld i alla sammanhang.
 
 ### §2 Föreningens namn m.m.
 Föreningens fullständiga namn är Östra Aros Cykelklubb 
-Föreningen har sin hemort/säte i Uppsala kommun.
+Föreningen har sin hemort och säte i Uppsala kommun.
 
 ### §3 Sammansättning, tillhörighet m.m.
 Föreningen består av de fysiska personer som har upptagits i föreningen som medlemmar.
@@ -75,25 +80,27 @@ Föreningen är medlem i följande specialidrottsförbund (SF):
 Svenska Cykelförbundet, och är därigenom även ansluten till Sveriges Riksidrottsförbund (RF).
 
 Genom medlemskap i SF blir förening även medlem i det distriktsidrottsförbund (DF) inom vars område föreningens hemort är belägen samt i förekommande fall i vederbörande specialidrottsdistriktsförbund (SDF) inom det SF-distrikt där föreningens hemort är belägen.
-
-Upplands Cykelförbund.
+Distriksidrottsförbundet som föreningen tillhör är Upplands Cykelförbund.
 
 Föreningen är skyldig att följa nämnda organisationers stadgar, tävlingsregler och beslut fattade av dessa idrottsorgan. 
 
 På begäran av RF eller vederbörande SF-, SDF- eller DF-styrelse är föreningen skyldig att ställa föreningens handlingar till förfogande samt lämna av dessa organ begärda uppgifter.
 
 ### §4 Beslutande organ
-Föreningens beslutande organ är årsmötet, extra årsmöte och styrelsen.
+Föreningens högst beslutande organ är årsmötet.
+Under verksamhetsåret är föreningens beslutande organ styrelsen.
+Under verksamhetsåret hålls extra årsmöte vid behov för att ta beslut i frågor som har större ekonomisk bäring på föreningen. 
 
 ### §5 Verksamhets- och räkenskapsår
-Föreningens verksamhetsår och räkenskapsår omfattar tiden fr.o.m den 1 januari t.o.m den 31 december.
+Föreningens verksamhetsår och räkenskapsår omfattar tiden fr.o.m. den 1 januari t.o.m. den 31 december.
 
 ### §6 Firmateckning
 Föreningens firma tecknas av styrelsen gemensamt.
 
 Styrelsen har rätt att delegera firmateckningsrätten till två styrelseledamöter gemensamt eller till en eller flera särskilt utsedda personer.
+För att kunna delegera firmateckningsrätten krävs ett protkollsfört beslut från ett styrelsemöte där samtliga ordinarie ledamöter närvarar.
 
-Den som genom delegation fått fullmakt att företräda föreningen ska återrapportera till styrelsen.
+De som genom delegation fått fullmakt att företräda föreningen ska återrapportera löpande till styrelsen.
 
 ### §7 Stadgeändring
 För ändring av dessa stadgar krävs beslut av årsmöte med minst 2/3 av antalet avgivna röster.
@@ -113,9 +120,10 @@ Beslutet, tillsammans med kopior av styrelsens och årsmötets protokoll i ären
 ## 2 kap Föreningens medlemmar
 
 ### §1 Medlemskap
-Alla personer som vill stödja föreningens ändamål har rätt att beviljas medlemskap. Ansökan om medlemskap får avslås endast om det kan antas att sökanden kommer att motarbeta föreningens ändamål eller på annat sätt skada föreningens intressen. Medlemskap beviljas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Medlemskapet gäller tills vidare.
+Alla personer som vill stödja föreningens ändamål har rätt att beviljas medlemskap. Ansökan om medlemskap får avslås endast om det kan antas att sökanden kommer att motarbeta föreningens ändamål eller på annat sätt skada föreningens intressen. Medlemskap beviljas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Medlemskapet gäller tills vidare med undantag för [2 kap Föreningens medlemmar §4 Utträde](#4-utträde).
 
-Beslut att avslå medlemsansökan ska fattas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Innan sådant beslut fattas ska personen i fråga ges tillfälle att inom viss tid, minst 14 dagar, yttra sig över de omständigheter som är anledningen till att medlemskap ifrågasätts. 
+Beslut att avslå medlemsansökan ska fattas av styrelsen eller av den som styrelsen delegerat beslutanderätten till. Innan sådant beslut fattas ska personen i fråga ges tillfälle att inom viss tid, minst 14 dagar, yttra sig över de omständigheter som är anledningen till att medlemskap ifrågasätts.
+Beslut att avslå medlemsansökan ska protkollföras på ett styrelsemöte.
 
 I beslutet att avslå medlemsansökan ska skälen redovisas samt anges vad den medlemssökande ska iaktta för att överklaga beslutet. Beslutet ska inom tre dagar från dagen för beslutet skriftligen skickas till den som fått avslag på medlemsansökan.
 
@@ -123,10 +131,10 @@ Beslut att avslå medlemsansökan får överklagas av den berörde inom tre veck
 
 ### §2 Medlems skyldigheter och rättigheter
 Medlem
-* ska följa föreningens stadgar och beslut som fattats av föreningsorgan samt följa i 1 kap 3 § nämnda organisationers stadgar, tävlingsregler och beslut,
+* ska följa föreningens stadgar och beslut som fattats av föreningsorgan samt följa i [1 kap 3 §](#3-sammansättning--tillhörighet-mm) nämnda organisationers stadgar, tävlingsregler och beslut,
 * ska betala de avgifter som beslutats av föreningen,
 * har rätt att delta i sammankomster som anordnas för medlemmarna,
-* har rätt till information om föreningens angelägenheter i den utsträckning som följer av 6 kap 2 §,
+* har rätt till information om föreningens angelägenheter i den utsträckning som följer av [6 kap 2 §](#2-styrelsens-åligganden),
 * har inte rätt att ta del av föreningens behållning eller egendom vid upplösning av föreningen.
 
 ### §3 Medlems deltagande i tävlingsverksamhet
@@ -138,19 +146,17 @@ Föreningen bestämmer förutsättningarna för medlems deltagande i tävling el
 
 Styrelens eller av styrelen utsedd <i>Race Manager</i>, beslutar om vilka medlemar som får företräda föreningen vid av SF anslutna tävlingar.
 
-Medlem som vill delta i tävlingsverksamhet för föreningen skall inkomma med ansökan till styrelsen senast 31 januari för kommande tävlingsår.
-
 Är arrangören av tävlingen eller uppvisningen inte ansluten till det SF som administrerar ifrågavarande idrottsgren, får medlemmen delta endast om detta SF godkänt tävlingen eller uppvisningen.
 
 ### §4 Utträde
-Medlem, som önskar utträda ur förening, ska skriftligen anmäla detta. Har medlem vid sådant utträde inte betalat föreskrivna avgifter till föreningen, bestämmer föreningsstyrelsen om de ska betalas eller inte.
+Medlem, som önskar utträda ur förening, ska skriftligen anmäla detta. Har medlem vid sådant utträde inte betalat föreskrivna avgifter till föreningen, bestämmer styrelsen om de ska betalas eller inte.
 
-Om medlem inte betalat medlemsavgift under två på varandra följande år, får föreningen besluta om medlemskapets upphörande.
+Om medlem inte betalat medlemsavgift under två på varandra följande år upphör medlemskapet att gälla.
 
 Om inte annat beslutas upphör medlemskapet enligt första eller andra stycket när medlemmen avförs från medlemsförteckningen. Personen ska underrättas om att medlemskapet har upphört.
 
 ### §5 Uteslutning m.m.
-Medlem får, utan iakttagande av 4 § andra stycket, uteslutas om medlemmen, trots påminnelser, har försummat att betala av föreningen beslutade avgifter. Medlem får också uteslutas om medlemmen motarbetat föreningens verksamhet eller ändamål, brutit mot föreningens stadgar eller på annat sätt skadat föreningens intressen.
+Medlem får, utan iakttagande av [2 kap 4 § andra stycket](#4-utträde), uteslutas om medlemmen, trots påminnelser, har försummat att betala av föreningen beslutade avgifter. Medlem får också uteslutas om medlemmen motarbetat föreningens verksamhet eller ändamål, brutit mot föreningens stadgar eller på annat sätt skadat föreningens intressen.
 
 Uteslutning gäller tills vidare. Beslut om uteslutning får dock begränsas till att omfatta viss tid. Sådan tidsbegränsad uteslutning får som mest omfatta sex månader från beslutsdagen.
 
@@ -159,6 +165,7 @@ Om tillräckliga skäl för uteslutning inte föreligger får föreningen i stä
 Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss av föreningsstyrelsen angiven tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts.
 
 I beslut om uteslutning eller varning ska skälen redovisas samt anges vad medlemmen ska iaktta för överklagande av beslutet. Beslutet ska inom tre dagar från dagen för beslutet skickas till medlemmen.
+Beslut om uteslutning eller varning ska protokollföras på ett styrelsemöte.
 
 ### §6 Överklagande
 Beslut om att vägra medlemskap, medlemskapets upphörande eller varning får överklagas till vederbörande SF enligt reglerna i 15 kap. RF:s stadgar.
