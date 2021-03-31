@@ -56,7 +56,7 @@
 Östra Aros Cykelklubb stadgar utgår från RF:s stadgemall för idrottföreningar, fastställd av Riksidrottsstyrelsen den 11 oktober 2013 uppdaterad efter RF-stämman 2015 och reviderad av Riksidrottsstyrelsen den 22 augusti 2018.
 
 ### §1 Ändamål
-Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” [1 kap RF:s stadgar, bilaga](https://www.rf.se/globalassets/riksidrottsforbundet/nya-dokument/nya-dokumentbanken/stadgar-och-regelverk/rfs-stadgar-2020-01-01.pdf), med särskild inriktning att: 
+Föreningen har som ändamål att bedriva idrottslig verksamhet i enlighet med ”Idrottsrörelsens verksamhetsidé, vision och värdegrund” [1 kap RF:s stadgar, bilaga](https://www.rf.se/globalassets/riksidrottsforbundet-svensk-antidoping/dokument/rfs-stadgar-2020-01-01.pdf), med särskild inriktning att: 
 * Föreningen skall bedriva cykelsport av tävlings- och motionskaraktär.
 * Föreningens huvudsakliga ändamål är att delta i nationella cykeltävlningar sanktionerade av SCF. 
 
